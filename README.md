@@ -1,8 +1,10 @@
 2026/09/16 16:07:58
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: sweetparadise987@aol.com, crofty7214@yahoo.com
-At: 2026-09-16 16:08:56
-Id: pRrdZwGu
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: xiaofanqie16@hotmail.com, flo.rajnak@comcast.net
+At: 2026-09-16 16:09:35
+Id: 2RWwTe0C
